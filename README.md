@@ -1,3 +1,3 @@
 ## Code
 
-For the rest of the code, check the [SQL_queries.sql](https://github.com/Princekrampah/WalmartSalesAnalysis/blob/master/SQL_queries.sql) file
+For the SQL equivalent of the Queries, check the [SQL_queries.sql](https://github.com/kayikalvin/Udemy-DataAnalysis/blob/master/queries.sql) file
